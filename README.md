@@ -24,4 +24,5 @@ This repository includes just some code snippets and screenshots of one of my "o
 The best description is the screenshots. All the options you can see were well tested and working functionalities.
 
 ## Conclusions  
-Years ago we had to work with PHP and separate Web servers without asynchronous backend PHP processing. Now we can build insane fast Go REST/GraphQL apps in a single super portable binary using ridiculous hardware resources to process the same number of requests and be able to scale it up in **<5 secs**. 
+Years ago we had to work with PHP for the backend and separate Web servers without asynchronous backend PHP processing. Now we can build insane fast Go REST/GraphQL apps in a single super portable binary using ridiculous hardware resources to process the same number of requests and be able to scale it up in **<5 secs**. 
+Delivering static builds of JS pages using modern BE these days is working better as never before when UIs can be loaded millions of times per second if you do it properly. 
