@@ -5,7 +5,7 @@ People who work with software they know how feels to watch +5 years old source c
 
 I don't believe I am a "full-stack" developer with the definition of today but I built in past full products from scratch using pure **minimalistic PHP/CSS and JQuery** without using any ready framework with (surprisingly) very fast and good results with a great number of working features, hosted on bare metal or cloud servers.  
 
-#### I'm fun of modern **Angular/ReactJS** applications with **REST** and **GraphQL** APIs but sometimes it's good to compare the results between an old and a new approach to build a **reference point**. 
+### I'm fun of modern **Angular/ReactJS** applications with **REST** and **GraphQL** APIs but sometimes it's a good idea to compare the results between an old and a new approach to build a **reference point**. 
 
 This repository includes just some code snippets and screenshots of one of my "one-man" projects I built for the Telecom industry and using in production once upon a time. 
 
